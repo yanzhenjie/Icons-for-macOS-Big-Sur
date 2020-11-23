@@ -1,0 +1,22 @@
+{
+  "name": "icons-for-macos-big-sur",
+  "version": "1.0.0",
+  "description": "Transition icons for macOS Big Sur",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaznadi/Icons-for-macOS-Big-Sur.git"
+  },
+  "author": "aaznadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaznadi/Icons-for-macOS-Big-Sur/issues"
+  },
+  "homepage": "https://github.com/aaznadi/Icons-for-macOS-Big-Sur#readme",
+  "dependencies": {
+    "png2icns": "0.0.1"
+  }
+}

@@ -10,11 +10,11 @@
 
 ## What dis?
 
-This repo contains `svg` and `icns` icon files for a few apps. These icons are destined to replace the older ones to fit macOS Big Sur style.
+This repo contains `svg` and `icns` icon files for a few macOS apps. These icons are destined to replace the older ones to fit the new macOS Big Sur style.
 
-Also contains icons for folders, use them to keep your stuff organized 😉.
+Also contains a few icons for folders, use them to keep your stuff organized 😉.
 
-`index.js` builds the `icns` files from the `png` ones. Maybe next commit I will add code to convert directly from `svg`...
+`index.js` builds the `icns` files from the `png` ones. Later I will add code to convert directly from `svg`...
 
 ## Icon Requests
 
